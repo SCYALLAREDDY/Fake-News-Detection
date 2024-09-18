@@ -30,6 +30,3 @@ You can install these packages using pip.
    - A word cloud visualizes the most common words in the dataset, providing insight into prevalent terms.
    - A bar plot of the top features shows the most important words used by the model for classification.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
